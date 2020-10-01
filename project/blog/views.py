@@ -4,16 +4,16 @@ from django.http import HttpResponse
 
 posts = [
 {
-	'author':'J.KJ rowling',
+	'author':'J.K rowling',
 	'title':'Harry potter',
-	'content':'childer book',
+	'content':'children book are not paying as told to her by the initial publishers',
 	'date_posted':'2007'
 },
 {
-	"author":'Donald',
-	'title':'Bill',
-	'type':'Trump',
-	'release':'18.10.1950'
+	"author":'Donald Trump',
+	'title':'Presidential Election',
+	'content':'Donald trump to contest for the next term',
+	'date_posted':'18.10.2020'
 }
 ]
 
